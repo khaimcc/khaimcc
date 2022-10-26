@@ -1,7 +1,7 @@
 Hello, I'm Khai McCaskill.
 
-I was born and raised on the East Coast of the US and am a
-big Baltimore Ravens fan.
+I was born and raised in Delaware and am a
+big baltimore ravens fan.
 
 Currently, I'm a freshman ('26) computer engineering major 
 at UD in the Honors College. My interests include 
